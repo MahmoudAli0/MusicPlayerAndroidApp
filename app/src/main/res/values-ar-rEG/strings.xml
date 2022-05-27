@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">مشغل اغاني</string>
+    <string name="music_title">عنوان الاغنية</string>
+    <string name="title_sttings_activity">الاعدادات</string>
+    <string name="title_Favorite_activit">المفضلة</string>
+    <string name="confirm_password">تاكيد كلمة المرور </string>
+    <string name="register">تسجيل</string>
+    <string name="login">دخول</string>
+    <string name="RateTheapp">قيم التطبيق</string>
+    <string name="username">ادخل اسم المستخدم</string>
+    <string name="password">ادخل كلمة السر </string>
+    <string name="exiting_user">لديك حساب بالفعل</string>
+    <string name="createNewAccount">انشيء حساب جديد</string>
+    <string name="SignUp">تسجيل</string>
+    <string name="ContinuewithGoogle">المتابعة بايميل جوجل </string>
+    <string name="appText">افضل البرامج لتشغيل الاغاني في العلم</string>
+    <string name="songesMain">الاغاني</string>
+    <string name="FavoritesMain">المفضلة</string>
+    <string name="NoSongesInYourPhone">لا يوجد اغاني قي هاتفك رجاء احصل علي البعض</string>
+    <string name="seekBarStartTime">0.00</string>
+    <string name="Exit">خروج</string>
+    <string name="Contactsprovider"> الارقام </string>
+    <string name="Cancel">الغاء</string>
+    <string name="Settings">الاعدادات</string>
+    <string name="Search">البحث</string>
+    <string name="Contacts">الارقام</string>
+    <string name="Account">الحساب</string>
+    <string name="SelectImage">اختر صورة</string>
+    <string name="FullName">الاسم : </string>
+    <string name="Password">كلمة السر :</string>
+    <string name="Nightmode">الوضع الليلي</string>
+    <string name="orientation">المحاذاة</string>
+    <string name="EnableNightMode">تفعيل الوضع الليلي </string>
+    <string name="ScreenOrientation">محاذاة الشاشة</string>
+</resources>

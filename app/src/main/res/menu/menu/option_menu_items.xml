@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/RateTheapp"
+        android:id="@+id/share"
+        />
+    <item android:title="@string/Exit"
+        android:id="@+id/exit"
+        />
+    <item android:title="@string/Contactsprovider"
+        android:id="@+id/contacts"
+        />
+    <item android:id="@+id/search"
+        android:title="@string/Search"
+        app:showAsAction="always|collapseActionView"
+        app:actionViewClass="androidx.appcompat.widget.SearchView"
+        android:icon="@drawable/ic_baseline_search_24"/>
+    <item android:title="@string/Settings"
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_baseline_settings_24"
+        app:showAsAction="ifRoom"/>
+    <item android:title="@string/Cancel"
+        android:id="@+id/cancel"/>
+</menu>

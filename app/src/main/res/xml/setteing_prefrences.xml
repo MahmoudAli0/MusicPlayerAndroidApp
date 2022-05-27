@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:textColor="#00838F"
+        android:title="@string/EnableNightMode"
+        tools:ignore="TextContrastCheck,TextContrastCheck">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="NIGHT"
+            android:summaryOff="Night mode is deactivated"
+            android:summaryOn="Night mode is activated"
+            android:title="@string/Nightmode" />
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/ScreenOrientation"
+        tools:ignore="TextContrastCheck,TextContrastCheck">
+        <ListPreference
+            android:defaultValue="false"
+            android:entries="@array/orientation_items_names"
+            android:entryValues="@array/orientation_items_values"
+            android:key="ORIENTATION"
+            android:title="@string/orientation" />
+    </PreferenceCategory>
+
+</PreferenceScreen>

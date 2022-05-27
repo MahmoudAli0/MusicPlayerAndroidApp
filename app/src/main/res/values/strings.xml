@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MusicPlayerApp</string>
+    <string name="music_title">title of the song</string>
+    <string name="title_sttings_activity">Settings</string>
+    <string name="title_Favorite_activit">Favorite</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="createNewAccount">Create New Account</string>
+    <string name="username">Enter Your UserName</string>
+    <string name="password">Enter Your Password</string>
+    <string name="exiting_user">Already Have An account</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="songesMain">Songes</string>
+    <string name="ContinuewithGoogle">Continue with Google</string>
+    <string name="appText">The Best Music Player App Ever In The World</string>
+    <string name="FavoritesMain">Favorites</string>
+    <string name="NoSongesInYourPhone">No Songes In Your Phone please get some</string>
+    <string name="seekBarStartTime">0.00</string>
+    <string name="RateTheapp">Rate The app</string>
+    <string name="Exit">Exit</string>
+    <string name="Contactsprovider">Contacts provider</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Settings">Settings</string>
+    <string name="Search">Search</string>
+    <string name="Contacts">Contacts</string>
+    <string name="Account">Account</string>
+    <string name="SelectImage">Select Image</string>
+    <string name="FullName">Full Name :</string>
+    <string name="Password">Password :</string>
+    <string name="Nightmode">Night mode</string>
+    <string name="orientation">orientation</string>
+    <string name="EnableNightMode">Enable Night Mode</string>
+    <string name="ScreenOrientation">Screen Orientation</string>
+</resources>

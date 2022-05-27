@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/drawable/ic_image.xml" value="0.1415" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_account.xml" value="0.2" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_favorite.xml" value="0.2" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_main_contact.xml" value="0.209375" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_music_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/activity_setteings.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/custom_contact_item.xml" value="0.209375" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/maintoolbar.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/recyecler_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/layout/toolbar.xml" value="0.16" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/menu/menu.xml" value="0.22" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/menu/option_menu_items.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/menu/tool_barmainpage.xml" value="0.25416666666666665" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/mipmap-anydpi-v26/app_logo.xml" value="0.1" />
+        <entry key="..\:/Musicplayerapp2/app/src/main/res/xml/setteing_prefrences.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/activity_account.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/activity_home.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/activity_main.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/activity_music_player.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/maintoolbar.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/recyecler_item.xml" value="0.14945652173913043" />
+        <entry key="..\:/Users/NOUR SOFT/Desktop/Musicplayerapp2/app/src/main/res/layout/toolbar.xml" value="0.14945652173913043" />
+        <entry key="app/src/main/res/layout/activity_main_contact.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/custom_contact_item.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
